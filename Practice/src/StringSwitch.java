@@ -22,7 +22,7 @@ public class StringSwitch {
 		    break;
 		default:
 			System.out.println("Sorry ! Not Present");
-		
+		//one line commented in StringSwitch class
 		
 		
 		}
