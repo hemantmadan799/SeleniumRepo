@@ -1,3 +1,8 @@
 This document created for subMaster branch v1
 
+<<<<<<< HEAD
 another line added by puneet.
+=======
+
+one line added by hemant
+>>>>>>> 4c6be25680c4ada448357db3af4f3f82c0235ad9
